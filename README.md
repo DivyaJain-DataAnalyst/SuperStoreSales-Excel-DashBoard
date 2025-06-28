@@ -29,23 +29,23 @@
 ## 🌟⚙️ Features:
 - KPIs: Total Sales, Avg. Sale, Transactions, Quantity.
 - Visuals: 
-      Pie/Donut Charts: Ship mode %, Zone-wise sales.
-      Column/Bar Charts: Top 5 cities, Category transactions.
-      Line Chart: Monthly quantity sold.
+      --Pie/Donut Charts: Ship mode %, Zone-wise sales.
+      --Column/Bar Charts: Top 5 cities, Category transactions.
+      --Line Chart: Monthly quantity sold.
 - Slicers: Filter by region and year.
 - Top Performers: Highlights top cities, categories, and customer types.
 
 ## 📈📌  Key Performance Questions (KPIs): (Derived from Dashboard):
-💰 What is the total sales value of all transactions?
-📈 What is the average sales value per transaction?
-🔢 How many transactions were recorded in total?
-📦 What is the total quantity sold across all transactions?
-🚚 What are the total sales figures by each ship mode?
-🌍 How many transactions occurred in each zone?
-🗓️ What is the month-wise breakdown of quantity sold?
-🏙️ Which are the top 5 cities based on total sales?
-📂 What is the number of transactions by product category?
-👥 How much quantity was ordered by each consumer type?
+- 💰 What is the total sales value of all transactions?
+- 📈 What is the average sales value per transaction?
+- 🔢 How many transactions were recorded in total?
+- 📦 What is the total quantity sold across all transactions?
+- 🚚 What are the total sales figures by each ship mode?
+- 🌍 How many transactions occurred in each zone?
+- 🗓️ What is the month-wise breakdown of quantity sold?
+- 🏙️ Which are the top 5 cities based on total sales?
+- 📂 What is the number of transactions by product category?
+- 👥 How much quantity was ordered by each consumer type?
   
 ## Dashboard Interaction
 - <a href="https://github.com/DivyaJain-DataAnalyst/SuperStoreSales-Excel-DashBoard/blob/main/dashboard%20image.JPG"> Dashboard <a>
