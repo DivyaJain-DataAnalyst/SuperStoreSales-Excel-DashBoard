@@ -29,9 +29,9 @@
 ## 🌟⚙️ Features:
 - KPIs: Total Sales, Avg. Sale, Transactions, Quantity.
 - Visuals: 
-      --Pie/Donut Charts: Ship mode %, Zone-wise sales.
-      --Column/Bar Charts: Top 5 cities, Category transactions.
-      --Line Chart: Monthly quantity sold.
+      -Pie/Donut Charts: Ship mode %, Zone-wise sales.
+      -Column/Bar Charts: Top 5 cities, Category transactions.
+      -Line Chart: Monthly quantity sold.
 - Slicers: Filter by region and year.
 - Top Performers: Highlights top cities, categories, and customer types.
 
